@@ -38,20 +38,16 @@ function Footer() {
             LinkedIn
           </a>
 
-          <a href="#contact">
-            Email
-          </a>
+          <a href="#contact">Email</a>
         </div>
       </div>
 
       <div className="footer-bottom">
         <p>
-          © {currentYear} Bittu Kumar Singh. All rights reserved.
+          Copyright {currentYear} Bittu Kumar Singh. All rights reserved.
         </p>
 
-        <a href="#home">
-          Back to top ?
-        </a>
+        <a href="#home">Back to top</a>
       </div>
     </footer>
   );
